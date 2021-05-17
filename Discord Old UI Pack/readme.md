@@ -1,5 +1,6 @@
 # DISCORD UI Pack!
-![2021-05-17_12 42 13](https://user-images.githubusercontent.com/74849003/118430145-5ba69100-b70e-11eb-9cac-d05962c6d930.png)
+![2021-05-17_18 32 28](https://user-images.githubusercontent.com/74849003/118477286-7c400c80-b749-11eb-87f8-802499d6c883.png)
+
 
 ## 特徴
 
