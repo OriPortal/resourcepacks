@@ -2,30 +2,16 @@
     "providers": [
         {
             "type": "ttf",
+            "file": "Whitney-Medium.ttf",
+            "shift": [0, 1],            
+            "size": 10,
+            "oversample": 12.0
+        },
+		{
+            "type": "ttf",
             "file": "GenEiMonoCode-Regular.ttf",
-            "shift": [0, 1],            
-            "size": 8.5,
-            "oversample": 12.0
-        },
-		{
-            "type": "ttf",
-            "file": "NotoSansKR-Regular.ttf",
-            "shift": [0, 1],            
-            "size": 8.5,
-            "oversample": 12.0
-        },
-		{
-            "type": "ttf",
-            "file": "NotoSansSC-Regular.ttf",
-            "shift": [0, -0.1],            
-            "size": 12,
-            "oversample": 12.0
-        },
-		{
-            "type": "ttf",
-            "file": "NotoSansTC-Regular.ttf",
-            "shift": [0, -0.1],            
-            "size": 12,
+            "shift": [0, 1.5],            
+            "size": 7.5,
             "oversample": 12.0
         },
         {
