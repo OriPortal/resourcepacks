@@ -71,5 +71,21 @@
     "merchant.level.4": "\u00A7f\u719f\u7df4\u8005",
     "merchant.level.5": "\u00A7f\u9054\u4eba",
     "merchant.next_level": "\u5546\u4eba\u306e\u6b21\u306e\u30ec\u30d9\u30eb",
-    "merchant.trades": "\u00A7f\u53d6\u5f15"
+    "merchant.trades": "\u00A7f\u53d6\u5f15",
+    "gameMode.adventure": "\u00A72\u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u30fc\u30e2\u30fc\u30c9",
+    "gameMode.creative": "\u00A7d\u30af\u30ea\u30a8\u30a4\u30c6\u30a3\u30d6\u30e2\u30fc\u30c9",
+    "gameMode.hardcore": "\u00A7o\u00A74\u30cf\u30fc\u30c9\u30b3\u30a2\u30e2\u30fc\u30c9",
+    "gameMode.spectator": "\u00A79\u30b9\u30da\u30af\u30c6\u30a4\u30bf\u30fc\u30e2\u30fc\u30c9",
+    "gameMode.survival": "\u00A76\u30b5\u30d0\u30a4\u30d0\u30eb\u30e2\u30fc\u30c9",
+    "selectWorld.cheats": "\u00A7e\u30c1\u30fc\u30c8",
+    "selectWorld.version": "\u00A7a\u30d0\u30fc\u30b8\u30e7\u30f3\uff1a",
+    "options.controls": "\u64cd\u4f5c\u8a2d\u5b9a",
+    "options.video": "\u30d3\u30c7\u30aa\u8a2d\u5b9a",
+    "options.language": "\u8a00\u8a9e\u8a2d\u5b9a",
+    "options.sounds": "\u30b5\u30a6\u30f3\u30c9\u8a2d\u5b9a",
+    "options.resourcepack": "\u30ea\u30bd\u30fc\u30b9\u30d1\u30c3\u30af",
+    "options.accessibility.title": "\u30a2\u30af\u30bb\u30b7\u30d3\u30ea\u30c6\u30a3\u8a2d\u5b9a",
+    "options.skinCustomisation": "\u30b9\u30ad\u30f3\u306e\u30ab\u30b9\u30bf\u30de\u30a4\u30ba",
+    "options.chat.title": "\u30c1\u30e3\u30c3\u30c8\u8a2d\u5b9a",
+    "menu.options": "\u8a2d\u5b9a" 
 }
