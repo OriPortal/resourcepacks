@@ -10,7 +10,7 @@
 		{
             "type": "ttf",
             "file": "GenEiMonoCode-Regular.ttf",
-            "shift": [0, 1.5],            
+            "shift": [0, 1.9],            
             "size": 7.5,
             "oversample": 12.0
         },

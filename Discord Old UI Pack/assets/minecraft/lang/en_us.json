@@ -88,5 +88,6 @@
   "gameMode.spectator": "\u00A79Spectator Mode",
   "gameMode.hardcore": "\u00A7o\u00A74Hardcore Mode!",
   "selectWorld.cheats": "\u00A7eCheats",
-  "selectWorld.version": "\u00A7aVersion:"
+  "selectWorld.version": "\u00A7aVersion:",
+  "gui.advancements": "\u00A7fAdvancements"
 }
