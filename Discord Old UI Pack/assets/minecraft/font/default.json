@@ -1,20 +1,6 @@
 {
     "providers": [
         {
-            "type": "ttf",
-            "file": "Whitney-Medium.ttf",
-            "shift": [0, 1],            
-            "size": 10,
-            "oversample": 12.0
-        },
-		{
-            "type": "ttf",
-            "file": "GenEiMonoCode-Regular.ttf",
-            "shift": [0, 1.9],            
-            "size": 7.5,
-            "oversample": 12.0
-        },
-        {
 			"type": "bitmap",
 			"file": "minecraft:font/1f004.png",
 			"height": 7,
