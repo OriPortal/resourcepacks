@@ -21,9 +21,9 @@
 | 項目 | 意味 |
 | ------------- | ------------- |
 | screen.loading=  | ロード画面の背景  |
-| screen.loading.bar=  | バーの進行していない部分の色  |
+| screen.loading.bar=  | バーの進行していない部分  |
 | screen.loading.outline=  | バーのアウトライン  |
-| screen.loading.progress=  | バーの進行している部分の色  |
+| screen.loading.progress=  | バーの進行している部分  |
 
 [カラーピッカー](https://www.google.com/search?sxsrf=ALeKk00bDEOCxHTskG7ncxh8iL5LQt5aGg%3A1606042331435&ei=20K6X-WSGojahwOM-bqgDg&q=%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%94%E3%83%83%E3%82%AB%E3%83%BC&oq=%E3%82%AB%E3%83%A9%E3%83%BC%E3%81%B4%E3%81%A3%E3%82%AB%E3%83%BC&gs_lcp=CgZwc3ktYWIQDDIECCMQJzIECAAQBDIECAAQBDIECAAQBDIECAAQBDIECAAQBDIECAAQBDIECAAQBFAAWABgmCtoAHAAeACAAV-IAV-SAQExmAEAqgEHZ3dzLXdpesABAQ&sclient=psy-ab&ved=0ahUKEwil7KL1_ZXtAhUI7WEKHYy8DuQQ4dUDCA0)などで変更したい色のHEXのカラーコードをコピーして6桁の英数字の欄に貼り付ける。(既存のコードに上書きする)
 
